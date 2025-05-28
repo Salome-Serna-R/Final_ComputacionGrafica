@@ -5,7 +5,7 @@ README.TXT
 Proyecto: Sistema de Renderizado con Ray Tracing en Java
 
 Punto implementado:
-He implementado el punto de trazado de rayos (ray tracing) para renderizar escenas 3D que contienen esferas y triángulos. Se hace lectura desde un archivo `escena.txt` para construir la escena con cámaras, luces, materiales, colores y objetos geométricos.
+Hemos implementado el punto de trazado de rayos (ray tracing) para renderizar escenas 3D que contienen esferas y triángulos. Se hace lectura desde un archivo `escena.txt` para construir la escena con cámaras, luces, materiales, colores y objetos geométricos.
 
 Entorno sugerido:
 - Lenguaje: Java (versión 8 o superior)
